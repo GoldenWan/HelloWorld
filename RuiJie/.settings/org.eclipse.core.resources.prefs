@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/mainpage.jsp=UTF-8
+encoding//src/cn/domain/userInfo.java=utf8
+encoding//src/cn/sendMessage=GBK
+encoding//src/cn/sendMessage/DES.java=UTF-8
+encoding//src/cn/sendMessage/MessageBean.java=UTF-8
+encoding//src/cn/sendMessage/SendMessage.java=UTF-8
+encoding//src/cn/sendMessage/XmlSerializer.java=UTF-8
+encoding//src/cn/utils/DES.java=UTF-8
+encoding/<project>=UTF-8

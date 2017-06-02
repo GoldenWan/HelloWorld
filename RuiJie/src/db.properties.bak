@@ -1,0 +1,4 @@
+river=com.mysql.jdbc.Driver
+url=jdbc:mysql://210.47.163.67:3306/db_ruijie1?useUnicode=true&characterEncoding=utf-8
+username=root
+password=root
